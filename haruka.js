@@ -120,7 +120,7 @@ function uncache(module = '.') {
          }
          return message;
       },
-        browser: ['Haruka Multi Device','Safari','1.0.0'],
+        browser: ['Cai-lin dan Cai-er istri AlfinQwe','Safari','1.0.0'],
         auth: state
     })
     
