@@ -1,7 +1,7 @@
 {
-  "name": "Haruka-Md",
+  "name": "Cai-er",
   "version": "10.0.6",
-  "description": "whatsapp tob with multi device.",
+  "description": "Cai-er and Cai-lin Love Alpin.",
   "main": "haruka.js",
   "directories": {
     "lib": "lib"
@@ -15,7 +15,7 @@
     "2022",
     "baileys-md"
   ],
-  "author": "ZeeoneOfc",
+  "author": "AlfinQwe",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys" : "npm:baileys-md@5.0.5",
